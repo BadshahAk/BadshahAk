@@ -5,6 +5,13 @@ Hey, I'm 〆 Anand ヅ ๛ Vindayak〆, a Web Developer 🚀, Back End Developer
 
  ## Information:
 ![♥️](https://te.legra.ph/file/aa152c55875721cd90a98.jpg)
+## Awards
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BadshahAk&label=Profile%20views&color=0e75b6&style=flat" alt="BadshahAk" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BadshahAk" alt="BadshahAk" /></a> </p>
+
+##  🎶 **Currently Playing**
+[![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://spotify.com)
+[![Resso](https://img.shields.io/badge/-Resso-%23007ACC?style=flat-square&logo=resso)](https://resso.com)
 
 
 - 🔭 I’m currently working on  **Open Source Projects, Website, API and Telegram Bots.**
@@ -37,6 +44,11 @@ Hey, I'm 〆 Anand ヅ ๛ Vindayak〆, a Web Developer 🚀, Back End Developer
     <code><img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></code>
   </p>
 </p>
+<a href="https://www.digitalocean.com/?refcode=ca821556e751&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+
+##Now playing🎵
+[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
+
 
 ## Stats:  
 
