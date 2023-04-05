@@ -2,6 +2,19 @@
 # Hi there 👋, I'm 𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪
 
 Hey, I'm 〆 Anand ヅ ๛ Vindayak〆, a Web Developer 🚀, Back End Developer & Telegram Bot Developer from India.
+### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+
+<!--
+**BadshahAk/BadshahAk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/BadshahAk/count.svg" />
+</p>
+
+
+
 
  ## Information:
 ![♥️](https://te.legra.ph/file/aa152c55875721cd90a98.jpg)
