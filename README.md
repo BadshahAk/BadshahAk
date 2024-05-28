@@ -23,7 +23,7 @@ Hey, I'm 〆 Anand ヅ ๛ Vindayak〆, a Web Developer 🚀, Back End Developer
  ## Information:
 ![♥️](https://te.legra.ph/file/aa152c55875721cd90a98.jpg)
 ## Awards
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BadshahAk&label=Profile%20views&color=0e75b6&style=flat" alt="BadshahAk" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BadshahAk" alt="BadshahAk" /></a> </p>
 
 ##  🎶 **Currently Playing**
