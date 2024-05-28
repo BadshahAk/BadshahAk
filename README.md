@@ -1,6 +1,10 @@
+<p align = "center"><img src = "https://github.com/BadshahAk/BadshahAk/blob/main/nwe.gif" width = "800" hight = "800"/></p>
+  
 ![𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪](https://te.legra.ph/file/bb91797b419acec245921.jpg)
-# Hi there 👋, I'm 𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪
+# Hi there   <img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt = "hand" heigh = "45" width = "45"/>,
+I'm 𓆩𝙇𝙀𝙂𝙀𝙉𝘿 ♡ 𝘼𝙉𝘼𝙉𝘿𓆪
 
+  
 Hey, I'm 〆 Anand ヅ ๛ Vindayak〆, a Web Developer 🚀, Back End Developer & Telegram Bot Developer from India.
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
@@ -67,3 +71,15 @@ Hey, I'm 〆 Anand ヅ ๛ Vindayak〆, a Web Developer 🚀, Back End Developer
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BadshahAk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadshahAk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+
+## My Snake Contribution Graph 🐍 
+
+
+<p align="center">
+  <h3 align="center"> 
+    <img src="https://github.com/tks18/tks18/raw/output/github-contribution-grid-snake.svg" alt="contribution graph">
+  </h3>
+</p>
+
+
+
